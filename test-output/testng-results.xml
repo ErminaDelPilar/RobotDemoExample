@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-23T10:23:49 PDT" name="Default suite" finished-at="2023-03-23T10:24:01 PDT" duration-ms="12256">
+    <groups>
+    </groups>
+    <test started-at="2023-03-23T10:23:49 PDT" name="Default test" finished-at="2023-03-23T10:24:01 PDT" duration-ms="12256">
+      <class name="co.edureka.TestClass">
+        <test-method signature="testing()[pri:0, instance:co.edureka.TestClass@5bf0d49]" started-at="2023-03-23T10:23:49 PDT" name="testing" finished-at="2023-03-23T10:24:01 PDT" duration-ms="12232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- co.edureka.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
